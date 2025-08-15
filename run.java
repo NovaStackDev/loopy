@@ -27,7 +27,7 @@ public class Loopy {
     public static void main(String[] args) throws AWTException {
         Loopy instance = new Loopy();
 
-        while(true) //for (int i = 0; i < 8; i++)
+        while(true) //for (int i = 0; i <3 ; i++)
         {
             instance.Bl0K31M0();
             instance.L0091();
