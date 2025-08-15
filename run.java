@@ -17,7 +17,7 @@ public class Loopy {
     public void L0091() {
         JWindow win = new JWindow();
         JLabel label = new JLabel();
-        label.setIcon(new ImageIcon("src/img/output.jpg"));
+        label.setIcon(new ImageIcon("output.jpg"));
         win.add(label);
         win.setSize(255, 259);
         win.setLocation(rad.nextInt(width), rad.nextInt(height));
