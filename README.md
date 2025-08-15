@@ -1,6 +1,6 @@
 Loopy
 
-Loopy was my very first programming project — this repository is a re-archive of that old creation.
+Loopy was my very first programming project — this repository is a re-archive of that early creation.
 
 Overview
 
@@ -13,3 +13,5 @@ Setup
 Clone this repository to a virtual machine.
 
 Run the program carefully.
+
+⚠️ I do not condone the modification of this project in any way.
